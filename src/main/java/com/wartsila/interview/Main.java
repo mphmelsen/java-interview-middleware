@@ -1,4 +1,4 @@
-package main.java.com.wartsila.interview;
+package com.wartsila.interview;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
